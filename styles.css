@@ -10,3 +10,6 @@ body {
     background: linear-gradient(109.6deg, rgb(135, 168, 254) 11.2%, rgb(254, 165, 197) 100.2%);
     padding: 10px;
 }
+.container {
+    background-color: white;
+}
