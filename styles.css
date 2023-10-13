@@ -1,3 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poiter one';
+    box-sizing: border-box;
+}
 body {
-background: radial-gradient(135deg, rgb(191, 224, 251) 0%, rgb(232, 233, 251) 25.8%, rgb(252, 239, 250) 50.8%, rgb(234, 251, 251) 77.6%, rgb(240, 251, 244) 100.7%);
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(109.6deg, rgb(135, 168, 254) 11.2%, rgb(254, 165, 197) 100.2%);
+    padding: 10px;
 }
