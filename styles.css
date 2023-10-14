@@ -4,6 +4,10 @@
     font-family: 'poiret one';
     box-sizing: border-box;
 }
+
+.list-name {
+    font-size: x-large;
+}
 .container {
     width: 100%;
     min-height: 100vh;
@@ -19,9 +23,6 @@
     border-radius: 10px;
 }
 
-.list-name {
-    font-size: x-large;
-}
 .todo-app h2 {
     color: #002765;
     display: flex;
@@ -64,7 +65,7 @@ button {
 
 ul li{
     list-style: none;
-    font-size: 40px;
+    font-size: 25px;
     padding: 12px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
